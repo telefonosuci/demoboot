@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "authors": [
+    "suci <telefonosuci@gmail.com>"
+  ],
+  "description": "Simple Spring Boot demo App",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.9",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
